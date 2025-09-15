@@ -1,7 +1,7 @@
 import FSApp from "./pages/FSApp";
 import Contact from "./components/Contact";
 import Portfolio from "./components/Portfolio";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 
